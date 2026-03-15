@@ -1,0 +1,11 @@
+{
+    "name":"YourGame",
+    "servePort": 34872,
+    "tree":{
+        "$className": "DataModel",
+        "ServerScriptService":{
+            "$className":"ServerScriptService",
+            "$path":"src/ServerScriptService/Core"
+        }
+    }
+}
