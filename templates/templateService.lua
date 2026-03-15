@@ -69,6 +69,8 @@ function Service:DoSomething()
     self:SafeCall(function()
         -- Complex logic here
     end)
+
+    self.Services["OtherServiceName"]:OtherServiceFunction() -- Call other service via injected dependencie
 end
 
 return Service
