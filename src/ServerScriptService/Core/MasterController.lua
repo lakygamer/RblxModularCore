@@ -1,7 +1,6 @@
 local MasterController = {}
 local Services = {}
 local Utilities = require(game.ServerScriptService.Core.Utilities)
-local NonReplicatedCSGDictionaryService = game:GetService("NonReplicatedCSGDictionaryService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 -- Generate Global Remotes
 local RemotesFolder = ReplicatedStorage:FindFirstChild("Remotes") or Instance.new("Folder")
