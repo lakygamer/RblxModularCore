@@ -5,7 +5,9 @@
         "$className": "DataModel",
         "ServerScriptService":{
             "$className":"ServerScriptService",
-            "$path":"src/ServerScriptService/Core"
+            "$path":"src/ServerScriptService"
+ 
+
         }
     }
 }
