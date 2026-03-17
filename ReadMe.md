@@ -67,7 +67,7 @@ Rojo documentation: [Rojo](https://rojo.space)<br>
 Roblox Engine: [Roblox Engine API](https://create.roblox.com/docs/reference/engine)
 
 ## License
-This project is licensed under the GNU General Public License v3.0 (GPLv3)
+This project is licensed under the MIT License
 
 See the [LICENSE](LICENSE) file for details.
 
